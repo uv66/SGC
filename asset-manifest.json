@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/uv66/SGC.git/static/css/main.b36b1718.chunk.css",
-    "main.js": "/uv66/SGC.git/static/js/main.6fe2b6f8.chunk.js",
-    "main.js.map": "/uv66/SGC.git/static/js/main.6fe2b6f8.chunk.js.map",
-    "runtime-main.js": "/uv66/SGC.git/static/js/runtime-main.3aa2c544.js",
-    "runtime-main.js.map": "/uv66/SGC.git/static/js/runtime-main.3aa2c544.js.map",
-    "static/js/2.5ba91aac.chunk.js": "/uv66/SGC.git/static/js/2.5ba91aac.chunk.js",
-    "static/js/2.5ba91aac.chunk.js.map": "/uv66/SGC.git/static/js/2.5ba91aac.chunk.js.map",
-    "index.html": "/uv66/SGC.git/index.html",
-    "precache-manifest.0ae1fc1d1e9e08535d512d48d05edda2.js": "/uv66/SGC.git/precache-manifest.0ae1fc1d1e9e08535d512d48d05edda2.js",
-    "service-worker.js": "/uv66/SGC.git/service-worker.js",
-    "static/css/main.b36b1718.chunk.css.map": "/uv66/SGC.git/static/css/main.b36b1718.chunk.css.map",
-    "static/js/2.5ba91aac.chunk.js.LICENSE.txt": "/uv66/SGC.git/static/js/2.5ba91aac.chunk.js.LICENSE.txt",
-    "static/media/logo2.jpg": "/uv66/SGC.git/static/media/logo2.b4a16600.jpg"
+    "main.css": "/SGC/static/css/main.b36b1718.chunk.css",
+    "main.js": "/SGC/static/js/main.6fe2b6f8.chunk.js",
+    "main.js.map": "/SGC/static/js/main.6fe2b6f8.chunk.js.map",
+    "runtime-main.js": "/SGC/static/js/runtime-main.4f8723eb.js",
+    "runtime-main.js.map": "/SGC/static/js/runtime-main.4f8723eb.js.map",
+    "static/js/2.5ba91aac.chunk.js": "/SGC/static/js/2.5ba91aac.chunk.js",
+    "static/js/2.5ba91aac.chunk.js.map": "/SGC/static/js/2.5ba91aac.chunk.js.map",
+    "index.html": "/SGC/index.html",
+    "precache-manifest.87960fb9f3d8c18b36b6d4bdc3e07a7d.js": "/SGC/precache-manifest.87960fb9f3d8c18b36b6d4bdc3e07a7d.js",
+    "service-worker.js": "/SGC/service-worker.js",
+    "static/css/main.b36b1718.chunk.css.map": "/SGC/static/css/main.b36b1718.chunk.css.map",
+    "static/js/2.5ba91aac.chunk.js.LICENSE.txt": "/SGC/static/js/2.5ba91aac.chunk.js.LICENSE.txt",
+    "static/media/logo2.jpg": "/SGC/static/media/logo2.b4a16600.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.3aa2c544.js",
+    "static/js/runtime-main.4f8723eb.js",
     "static/js/2.5ba91aac.chunk.js",
     "static/css/main.b36b1718.chunk.css",
     "static/js/main.6fe2b6f8.chunk.js"
